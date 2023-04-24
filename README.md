@@ -1,16 +1,13 @@
-### Hi there 👋
+![Github Banner](https://user-images.githubusercontent.com/43870819/233871837-ebc0d097-6258-4dcc-b189-06d6570e711e.png)
 
-<!--
-**sabrinalzbh/sabrinalzbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+         🔭 I’m currently working on getting more involved in open-source and blogging on Hashnode. 
+                  🌱 I’m currently learning UX/UI ~ Getting the creative juices flowing. 
+            🤔 I’m looking for help with becoming a better Tech Writer for DevRel purposes.
+                  🤓 Ask me about how to get more invloved in the Tech Community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
