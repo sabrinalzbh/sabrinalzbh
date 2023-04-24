@@ -8,7 +8,7 @@ on:
 jobs:
   blogs:
     name: "Blogs"
-    runs-on: node16
+    runs-on: Ubuntu-latest
     steps:
        - name: "📥  Fetching Repository Contents"
          uses: actions/checkout@main
@@ -18,6 +18,6 @@ jobs:
          with:
           USERNAME: 'Devhopefuture' # Hashnode Username
           BLOG_URL: 'https://devhopefuture.hashnode.dev' # Blog URL
-          COUNT: 5 # MAX Visisble
+          COUNT: 1 # MAX Visisble
           STYLE: "list"
 
