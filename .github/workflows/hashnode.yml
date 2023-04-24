@@ -10,15 +10,14 @@ jobs:
     name: "Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
+       - name: "📥  Fetching Repository Contents"
+         uses: actions/checkout@main
 
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
-        with:
+       - name: "📚  Hashnode Updater"
+         uses: "varunsridharan/action-hashnode-blog@main"
+         with:
           USERNAME: 'Devhopefuture' # Hashnode Username
           BLOG_URL: 'https://devhopefuture.hashnode.dev' # Blog URL
           COUNT: 5 # MAX Visisble
           STYLE: "list"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
