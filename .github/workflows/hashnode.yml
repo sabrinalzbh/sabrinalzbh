@@ -8,7 +8,7 @@ on:
 jobs:
   blogs:
     name: "Blogs"
-    runs-on: ubuntu-latest
+    runs-on: node16
     steps:
        - name: "📥  Fetching Repository Contents"
          uses: actions/checkout@main
