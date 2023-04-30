@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"        height="25" alt="instagram logo"  /></a>
  <a href= "https://www.linkedin.com/in/sabrina-chacon/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
- <a href= "mailto:sachacon15@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 </div>
 
 ###
@@ -27,11 +25,18 @@
 
 ###
 
-<p align="left">I'm Sabrina from Cleveland, Ohio USA<br><br>🔭 I’m currently working on getting more involved in open-source and blogging on Hashnode. <br> 🌱 I’m currently learning UX/UI ~ Getting the creative juices flowing. <br> 🤔 I’m looking for help with becoming a better Tech Writer for DevRel purposes.<br> 🤓 Ask me about how to get more invloved in the Tech Community<br>⚡ In my free time I enjoy nature walks, quality time with friends & family, reading, dancing, & so much more.</p>
+<p align="center">I'm Sabrina from Cleveland, Ohio USA<br><br>🔭 I’m currently working on getting more involved in open-source and blogging on Hashnode. <br> 🌱 I’m currently learning UX/UI ~ Getting the creative juices flowing. <br> 🤔 I’m looking for help with becoming a better Tech Writer for DevRel purposes.<br> 🤓 Ask me about how to get more invloved in the Tech Community<br>⚡ In my free time I enjoy nature walks, quality time with friends & family, reading, dancing, & so much more.</p>
+
+###
+---
+<h3 align="center"><em>I Also Do This Thing Called Blogging. I'd Love For You To Join Me On My Journey In Tech.</em>🤍 >>> <a href="https://hashnode.com/devhopefuture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="devhopefuture" height="30" width="40" /></a></h3>
+
+---
+
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -52,13 +57,12 @@
 </div>
 
 ###
-
 ---
-### *Coming Soon* 
-## My Latest Blog Posts 👇🏽
-<!--HASHNODE_BLOG:START -->
-<!--HASHNODE_BLOG:END -->
+###
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabrinalzbh&show_icons=true&locale=en" alt="sabrinalzbh" /></p> -->
 
----
+<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinalzbh&" alt="sabrinalzbh" /></p> -->
+
+
 
 
