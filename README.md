@@ -29,7 +29,7 @@
 
 ###
 ---
-<h3 align="center"><em>I Also Do This Thing Called Blogging. I'd Love For You To Join Me On My Journey In Tech.</em>🤍 >>> <a href="https://hashnode.com/devhopefuture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="devhopefuture" height="30" width="40" /></a></h3>
+<h3 align="center"><em>I Also Do This Thing Called Blogging. I'd Love For You To Join Me On My Journey In Tech.</em>🤍 >>> <a href="https://devhopefuture.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="devhopefuture" height="30" width="40" /></a></h3>
 
 ---
 
