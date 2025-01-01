@@ -1,4 +1,3 @@
-![Github Banner-min](https://user-images.githubusercontent.com/43870819/234070962-aec7654c-5748-4d2a-bd15-0189d1a7202d.png)
 
  <div align="center">
  <a href= "https://twitter.com/Dev_HopeFuture">
@@ -25,12 +24,11 @@
 
 ###
 
-<p align="center">I'm Sabrina from Cleveland, Ohio USA<br><br>🔭 I’m currently working on getting more involved in open-source and blogging on Hashnode. <br> 🌱 I’m currently learning UX/UI ~ Getting the creative juices flowing. <br> 🤔 I’m looking for help with becoming a better Tech Writer for DevRel purposes.<br> 🤓 Ask me about how to get more invloved in the Tech Community<br>⚡ In my free time I enjoy nature walks, quality time with friends & family, reading, dancing, & so much more.</p>
+<p align="center">I'm Sabrina from Cleveland, Ohio USA<br><br>🔭 I’m currently working on getting more involved in open-source. <br> 🤓 Ask me about how to get more invloved in the Tech Community<br>⚡ In my free time I enjoy nature walks, quality time with friends & family, reading, dancing, & so much more.</p>
 
 ###
 ---
-<h3 align="center"><em>I Also Do This Thing Called Blogging. I'd Love For You To Join Me On My Journey In Tech.</em>🤍 >>> <a href="https://devhopefuture.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="devhopefuture" height="30" width="40" /></a></h3>
-
+ 
 ---
 
 
